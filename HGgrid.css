@@ -1,0 +1,40 @@
+h1{
+  text-align: center;
+  border: 2px solid black;
+  margin: 0;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.grid-format {
+  display: grid;
+  grid-template-columns: 150px 1fr 150px;
+  height: 600px;
+  margin: 0;
+}
+
+.left-sidebar {
+  border: 2px solid black;
+}
+
+.linkcss{
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.middle {
+  border: 2px solid black;
+}
+
+.Content{
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.right-sidebar {
+  border: 2px solid black;
+}
